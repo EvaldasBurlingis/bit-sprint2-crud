@@ -21,7 +21,7 @@ Plain PHP CRUD application without using frameworks
 
 :heavy_exclamation_mark: **NOTE DOCKER USE**
 
-Docker is used for mysql container. To use docker-compose create mysql folder in projects root directory and then run docker-compose;
+Docker is used for mysql container. To use docker-compose create mysql folder in root directory and then run docker-compose;
 
 * Using local php environment
 ```bash
