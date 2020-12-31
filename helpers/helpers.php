@@ -8,7 +8,7 @@ function escape($html) {
 }
 
 /**
-* Escapes HTML for output
+* create csrf token
 */
 session_start();
 
