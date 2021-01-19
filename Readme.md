@@ -4,18 +4,18 @@ Plain PHP CRUD application without using frameworks
 
 ## Functionality
 
-- :heavy_check_mark: use mysql
-- :heavy_check_mark: can add employee
-- :heavy_check_mark: can edit employee details
-- :heavy_check_mark: can delete employee
-- :heavy_check_mark: can add project
-- :heavy_check_mark: can edit project
-- :heavy_check_mark: can remove project
-- :heavy_check_mark: can assign employee to project
-- :heavy_check_mark: project can have multiple employees
-- :heavy_check_mark: remove employee from project
-- :heavy_check_mark: list projects
-- :heavy_check_mark: list employess
+:heavy_check_mark: use mysql  
+:heavy_check_mark: can add employee  
+:heavy_check_mark: can edit employee details  
+:heavy_check_mark: can delete employee  
+:heavy_check_mark: can add project  
+:heavy_check_mark: can edit project  
+:heavy_check_mark: can remove project  
+:heavy_check_mark: can assign employee to project  
+:heavy_check_mark: project can have multiple employees  
+:heavy_check_mark: remove employee from project  
+:heavy_check_mark: list projects  
+:heavy_check_mark: list employess  
 
 ## Installation
 
